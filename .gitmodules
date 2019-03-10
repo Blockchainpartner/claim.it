@@ -1,0 +1,9 @@
+[submodule "claim.it-back"]
+	path = claim.it-back
+	url = https://github.com/Blockchainpartner/claim.it-back
+[submodule "claim.it-front"]
+	path = claim.it-front
+	url = https://github.com/Blockchainpartner/claim.it-front
+[submodule "claim.it-contracts"]
+	path = claim.it-contracts
+	url = https://github.com/Blockchainpartner/claim.it-contracts
